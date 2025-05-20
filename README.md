@@ -83,4 +83,4 @@ Here are some ideas to get you started:
   <em>NOTE: <b>Most Used Languages</b> don't indicate my skill level in that specific language, it's a GitHub metric of what languages my GitHub repositories contain.</em>
 </p>
 
-![Visits Badge](https://badges.pufler.dev/visits/manielli/badge-it)
+<!-- ![Visits Badge](https://badges.pufler.dev/visits/manielli/badge-it) -->
